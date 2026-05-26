@@ -1,0 +1,7 @@
+title: 合同会社さわもと ドキュメント
+description: 合同会社さわもとが提供するサービス・アプリに関する公開ドキュメントです。
+lang: ja
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
