@@ -70,6 +70,7 @@ title: Amazon Fire版アプリ プライバシーポリシー
 | 正確なアラーム(SCHEDULE_EXACT_ALARM) | 決められた時刻に正確にサービス開始通知を行うため | 端末内のみ |
 | バッテリー最適化からの除外(REQUEST_IGNORE_BATTERY_OPTIMIZATIONS) | 端末がスリープ状態でも定刻にサービスを起動できるようにするため | 端末内のみ |
 | インターネット接続(INTERNET) | noiz.funへの接続のため | noiz.fun(株式会社TENTO) |
+| ネットワーク状態の確認(ACCESS_NETWORK_STATE) | 通信エラー検知のため | 端末内のみ |
 
 ### 3.3 noiz.fun(WebView)を通じて取得される情報
 
