@@ -16,7 +16,7 @@ title: Amazon Fire版アプリ プライバシーポリシー
 | 事業者名 | 合同会社さわもと |
 | 代表者 | 代表社員 澤本 洋介 |
 | 所在地 | 高知県長岡郡本山町寺家13番地4 |
-| お問い合わせ先 | info@chouroudaigaku.jp |
+| お問い合わせ先 | info@chouroudaigaku.com |
 
 ## 2. 本アプリの概要
 
@@ -140,7 +140,7 @@ title: Amazon Fire版アプリ プライバシーポリシー
 合同会社さわもと
 所在地:高知県長岡郡本山町寺家13番地4
 代表者:代表社員 澤本 洋介
-お問い合わせ先メールアドレス:info@chouroudaigaku.jp
+お問い合わせ先メールアドレス:info@chouroudaigaku.com
 
 ---
 
