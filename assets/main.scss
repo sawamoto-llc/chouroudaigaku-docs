@@ -1,0 +1,69 @@
+---
+# minima標準スタイルを読み込んだ上で、読みやすさの微調整を加える
+---
+
+@import "minima";
+
+/* ===== 読みやすさの調整(控えめ) ===== */
+
+.page-content {
+  line-height: 1.9;
+}
+
+.page-content h1,
+.page-content h2,
+.page-content h3 {
+  line-height: 1.45;
+}
+
+.page-content h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #eee;
+}
+
+.page-content h3 {
+  margin-top: 1.6rem;
+}
+
+.page-content p,
+.page-content ul,
+.page-content ol,
+.page-content table {
+  margin-bottom: 1.2rem;
+}
+
+.page-content li {
+  margin-bottom: 0.4rem;
+}
+
+.page-content li > ul,
+.page-content li > ol {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+/* 引用(注意書き)を見やすく */
+.page-content blockquote {
+  border-left: 4px solid #f0a500;
+  background: #fffaf0;
+  padding: 0.6rem 1rem;
+  color: #444;
+  font-style: normal;
+}
+
+/* 画像(ガイドのスクショ)を枠付きで見やすく */
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+}
+
+/* 表が横にはみ出すときは横スクロール可能に */
+.page-content table {
+  display: block;
+  overflow-x: auto;
+  width: fit-content;
+  max-width: 100%;
+}
