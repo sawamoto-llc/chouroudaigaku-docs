@@ -11,3 +11,4 @@ title: プライバシーポリシー
 - [オンラインデイサービス長老大学(Android版・Google Play)](./android-app/)
 - [オンラインデイサービス長老大学(Amazon Fire版・Amazonアプリストア)](./fire-app/)
 - [オンラインデイサービス長老大学(Windows版・Microsoftストア)](./windows-app/)
+- [オンラインデイサービス長老大学(iPhone/iPad版・App Store)](./ios-app/)
