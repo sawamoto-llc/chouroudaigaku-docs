@@ -15,8 +15,10 @@ title: 合同会社さわもと ドキュメント
 オンラインデイサービス長老大学に参加するためのアプリの使い方を、機種ごとにご案内しています。
 
 - **[Androidタブレット・スマートフォン版](./guide/android-app/)** … Google Play から入れる方
+  - ※ スマートフォンは画面が小さいので、**タブレット**をおすすめします
 - **[Amazon Fireタブレット版](./guide/fire-app/)** … Fireタブレットをお使いの方
 - **[iPhone・iPad版](./guide/ipad-app/)** … iPhone・iPad をお使いの方
+  - ※ iPhoneは画面が小さいので、**iPad**をおすすめします
 - **[Windowsパソコン版](./guide/windows-app/)** … パソコンから参加する方
 
 ---
