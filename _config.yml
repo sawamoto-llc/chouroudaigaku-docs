@@ -5,3 +5,9 @@ theme: minima
 
 plugins:
   - jekyll-seo-tag
+
+# 上部メニューに出すページを限定（指定しないと全ページが自動で並んで雑然とするため）
+header_pages:
+  - guide/index.md
+  - privacy/index.md
+  - account-deletion/index.md
