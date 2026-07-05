@@ -45,7 +45,7 @@ title: 参加方法の選び方
 ├─ これから用意する ──────── ◎ おすすめ＝タブレット（Android / iPad / Fire）の
 │                              いずれか → 各専用アプリ
 │
-└─ Windows PC / Mac / スマホ しかない
+└─ Windows PC / Mac / iPhone・Androidスマホ がある
        → これらは今のところ「ぜんぶ自動」にはできません。
          全自動をご希望なら、タブレット（Android / iPad / Fire）の追加がおすすめです。
          当面は【B】か【C】の方法でご参加いただけます。
