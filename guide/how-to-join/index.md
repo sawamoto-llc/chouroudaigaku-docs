@@ -32,25 +32,31 @@ title: 参加方法の選び方
 **置いておくだけで自動で始まる**には、**自動で起動するアプリ**が必要です。
 使う（用意できる）端末で選びます。
 
-```
-お使いの端末は？
-│
-├─ Androidタブレットがある ───── ◎ Android版アプリ
-├─ iPad がある ──────────── ◎ iPad版アプリ
-├─ Amazon Fireタブレットがある ─ ◎ Fire版アプリ
-│      いずれも、曜日・時間を1回だけ設定 → あとは置くだけで自動入室。
-│      アプリを閉じていても、時間になれば自動で起動します。
-│      電源につないだまま・Wi-Fiにつないでおくだけ。
-│
-├─ これから用意する ──────── ◎ おすすめ＝タブレット（Android / iPad）の
-│                              いずれか → 各専用アプリ
-│                              ※買う前に事務局へご相談を（下の注意）
-│
-└─ Windows PC / Mac / iPhone・Androidスマホ がある
-       → これらは今のところ「ぜんぶ自動」にはできません。
-         全自動をご希望なら、タブレット（Android / iPad）の追加がおすすめです。
-         当面は【B】か【C】の方法でご参加いただけます。
-```
+<div class="dc-flow">
+<p class="dc-q">お使いの端末は？</p>
+<div class="dc-row is-best">
+<span class="dc-device">Androidタブレット<span class="have">がある</span></span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>Android版アプリ</span>
+</div>
+<div class="dc-row is-best">
+<span class="dc-device">iPad<span class="have">がある</span></span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>iPad版アプリ</span>
+</div>
+<div class="dc-row is-best">
+<span class="dc-device">Amazon Fireタブレット<span class="have">がある</span></span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>Fire版アプリ</span>
+</div>
+<p class="dc-note">いずれも、参加する曜日・時間を1回だけ設定すれば、あとは置くだけで自動入室。アプリを閉じていても、時間になれば自動で起動します。電源につないだまま・Wi-Fiにつないでおくだけです。</p>
+<div class="dc-row is-best">
+<span class="dc-device">これから用意する</span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>おすすめ＝タブレット（Android / iPad）のいずれか<span class="dc-sub">各専用アプリを使います。※買う前に、事務局へご相談ください（下の注意）。</span></span>
+</div>
+<div class="dc-row is-na">
+<span class="dc-device">Windows PC / Mac / iPhone・Androidスマホ<span class="have">がある</span></span>
+<span class="dc-rec na">今のところ「ぜんぶ自動」にはできません</span>
+</div>
+<p class="dc-note">全自動をご希望なら、タブレット（Android / iPad）の追加がおすすめです。当面は【B】か【C】の方法でご参加いただけます。</p>
+</div>
 
 - 👉 **Android版アプリの使い方** … [Android版アプリ 使い方ガイド](../android-app/)
 - 👉 **iPad版アプリの使い方** … [iPad版アプリ 使い方ガイド](../ipad-app/)
@@ -76,27 +82,37 @@ title: 参加方法の選び方
 
 ご自分の端末に**専用アプリ**があれば、毎回のログインの手間が減り、参加もかんたんになります。
 
-```
-お使いの端末は？
-│
-├─ Windows パソコン ──── ◎ Windows版アプリ
-│      毎朝「今日参加する時間」を選ぶ → 時間になると自動で入室。
-│      （アプリは開いたまま・パソコンはつけたままに）
-│
-├─ Androidタブレット ──── ◎ Android版アプリ（自動でも「手動参加」でもOK）
-│
-├─ iPad ──────────── ◎ iPad版アプリ（自動でも「手動参加」でもOK）
-│
-├─ Amazon Fireタブレット ─ ◎ Fire版アプリ（自動でも「手動参加」でもOK）
-│
-├─ Androidスマホ ─────── ○ Android版アプリ（同じアプリが使えます）
-│      ※「手動参加」で使います（自動起動はおすすめしません）
-│
-├─ iPhone ────────── ○ iPhone版アプリ（App Storeにあります）
-│      ※「手動参加」で使います（自動起動はおすすめしません）
-│
-└─ Mac ──────────── 専用アプリはありません → 【C】ブラウザ参加へ
-```
+<div class="dc-flow">
+<p class="dc-q">お使いの端末は？</p>
+<div class="dc-row is-best">
+<span class="dc-device">Windows パソコン</span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>Windows版アプリ<span class="dc-sub">毎朝「今日参加する時間」を選ぶ → 時間になると自動で入室（アプリは開いたまま・パソコンはつけたままに）。</span></span>
+</div>
+<div class="dc-row is-best">
+<span class="dc-device">Androidタブレット</span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>Android版アプリ<span class="dc-sub">自動でも「手動参加」でもOK。</span></span>
+</div>
+<div class="dc-row is-best">
+<span class="dc-device">iPad</span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>iPad版アプリ<span class="dc-sub">自動でも「手動参加」でもOK。</span></span>
+</div>
+<div class="dc-row is-best">
+<span class="dc-device">Amazon Fireタブレット</span>
+<span class="dc-rec"><span class="dc-badge badge-best">◎</span>Fire版アプリ<span class="dc-sub">自動でも「手動参加」でもOK。</span></span>
+</div>
+<div class="dc-row">
+<span class="dc-device">Androidスマホ</span>
+<span class="dc-rec"><span class="dc-badge badge-ok">○</span>Android版アプリ（同じアプリが使えます）<span class="dc-sub">※「手動参加」で使います（自動起動はおすすめしません）。</span></span>
+</div>
+<div class="dc-row">
+<span class="dc-device">iPhone</span>
+<span class="dc-rec"><span class="dc-badge badge-ok">○</span>iPhone版アプリ（App Storeにあります）<span class="dc-sub">※「手動参加」で使います（自動起動はおすすめしません）。</span></span>
+</div>
+<div class="dc-row is-na">
+<span class="dc-device">Mac</span>
+<span class="dc-rec na">専用アプリはありません → 【C】ブラウザ参加へ</span>
+</div>
+</div>
 
 > 📱 **スマホ（Androidスマホ・iPhone）にも、それぞれ専用アプリがあります。**
 > - スマホは電話としても使うため、**「時間になると自動ではじまる（自動起動）」は使いません**。参加する時間に、**ご自分でアプリを開いて、参加ボタン（Androidは「手動参加」／iPhoneは「今すぐ授業に入る」）を1回押す**使い方になります。
@@ -118,20 +134,19 @@ title: 参加方法の選び方
 > 🔗 **ログイン用のURL**：[https://app.noiz.fun/login](https://app.noiz.fun/login)
 > <br>このページを開いて、**事務局からお渡しした ID（メールアドレス）とパスワード**でログインしてください。
 
-```
-参加のしかた
-│
-├─ ブラウザで上のURLを開いてログインする
+ブラウザで上のURLを開き、ログインすれば参加できます。お使いの端末による向き・不向きは、次のとおりです。
 
-
-
-端末の向き・不向き
-│
-├─ Windows PC / Mac / Androidタブレット / iPad … ◯ 使いやすい
-│
-└─ スマートフォン（iPhone / Androidスマホ）…… △ 参加はできます。
-       ただし画面が小さく操作しにくいので、できれば大きい端末がおすすめです。
-```
+<div class="dc-flow">
+<p class="dc-q">どの端末が向いていますか？</p>
+<div class="dc-row is-best">
+<span class="dc-device">Windows PC / Mac / Androidタブレット / iPad</span>
+<span class="dc-rec"><span class="dc-badge badge-ok">◯</span>使いやすい</span>
+</div>
+<div class="dc-row">
+<span class="dc-device">スマートフォン（iPhone / Androidスマホ）</span>
+<span class="dc-rec"><span class="dc-badge badge-maybe">△</span>参加はできます<span class="dc-sub">画面が小さく操作しにくいので、できれば大きい端末がおすすめです。</span></span>
+</div>
+</div>
 
 > 📱 **スマホでお使いの方へ**：同じスマホでも、**ブラウザよりも専用アプリのほうがかんたん**です。アプリがある方は【B】もご覧ください（Androidスマホ・iPhoneとも専用アプリがあります）。
 

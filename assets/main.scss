@@ -67,3 +67,64 @@
   width: fit-content;
   max-width: 100%;
 }
+
+/* ===== 端末えらびフロー（参加方法の選び方ページ）カード型 ===== */
+.dc-flow { margin: 1rem 0 1.4rem; }
+.dc-flow .dc-q {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #333;
+  margin: 0 0 .7rem;
+}
+.dc-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .3rem .8rem;
+  background: #fff;
+  border: 2px solid #f2ddb0;
+  border-radius: 12px;
+  padding: .65rem .95rem;
+  margin-bottom: .6rem;
+}
+.dc-row.is-best { border-color: #f0a500; }
+.dc-row.is-na { border-color: #e0e0e0; background: #fafafa; }
+.dc-device {
+  font-weight: 700;
+  color: #222;
+  flex: 1 1 42%;
+  min-width: 11em;
+}
+.dc-device .have {
+  color: #999;
+  font-weight: 600;
+  font-size: .92em;
+  margin-left: .2em;
+}
+.dc-rec {
+  font-weight: 700;
+  color: #333;
+  flex: 1 1 46%;
+  min-width: 11em;
+}
+.dc-rec.na { font-weight: 600; color: #666; }
+.dc-badge { font-weight: 700; margin-right: .25em; }
+.badge-best { color: #e8820c; }
+.badge-ok { color: #2c9a86; }
+.badge-maybe { color: #d08700; }
+.dc-sub {
+  display: block;
+  width: 100%;
+  font-size: .9em;
+  font-weight: 600;
+  color: #666;
+  margin-top: .25em;
+}
+.dc-note {
+  background: #fffaf0;
+  border-radius: 10px;
+  padding: .55rem .9rem;
+  margin: -.05rem 0 .8rem;
+  color: #555;
+  font-size: .95rem;
+}
