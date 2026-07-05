@@ -9,5 +9,6 @@ plugins:
 # 上部メニューに出すページを限定（指定しないと全ページが自動で並んで雑然とするため）
 header_pages:
   - guide/index.md
+  - guide/how-to-join/index.md
   - privacy/index.md
   - account-deletion/index.md
