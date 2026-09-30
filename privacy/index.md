@@ -13,6 +13,7 @@ title: プライバシーポリシー
 - [オンラインデイサービス長老大学(Windows版・Microsoftストア)](./windows-app/)
 - [オンラインデイサービス長老大学(iPhone/iPad版・App Store)](./ios-app/)
 - [手書きAIマス計算(iPad版・App Store)](./tegaki-masu/)
+- [手書きAIマス計算(Android版・Google Play)](./tegaki-masu-android/)
 
 ## サービスのご利用に関するポリシー
 
