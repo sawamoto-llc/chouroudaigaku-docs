@@ -12,6 +12,7 @@ title: プライバシーポリシー
 - [オンラインデイサービス長老大学(Amazon Fire版・Amazonアプリストア)](./fire-app/)
 - [オンラインデイサービス長老大学(Windows版・Microsoftストア)](./windows-app/)
 - [オンラインデイサービス長老大学(iPhone/iPad版・App Store)](./ios-app/)
+- [手書きAIマス計算(iPad版・App Store)](./tegaki-masu/)
 
 ## サービスのご利用に関するポリシー
 
